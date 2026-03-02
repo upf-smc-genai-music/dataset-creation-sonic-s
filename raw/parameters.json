@@ -1,1 +1,5 @@
-{}
+{
+    "wind_intensity": {"type": "continuous", "min": 0, "max": 1},
+    "wind_speed": {"type": "continuous", "min": 0, "max": 1},
+    "wind_strength": {"type": "continuous", "min": 0, "max": 1}
+}
